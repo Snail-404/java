@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ajax_shoppintcart"
+  id="myeclipse.1505461835203"
+  context-root="/ajax_shoppintcart"
+  j2ee-spec="5.0"
+  archive="ajax_shoppintcart.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
